@@ -1,0 +1,93 @@
+
+.item3{
+  font-family: 'Courier New', Courier, monospace;
+  background-color: greenyellow;
+  font-size: 50px;
+    margin-bottom: 100px;
+}
+.grid{
+    justify-content: space-evenly;
+    font-family:cursive;
+    padding-bottom: 30px;
+    
+    font-size: 50px;
+
+    background-image: url('https://image.shutterstock.com/image-vector/blue-vector-background-geometric-hexagon-260nw-1924731386.jpg');
+    background-repeat: no-repeat;
+    background-position-x: 3  00px;
+    background-blend-mode: 500px;
+    background-size: 1900px;
+}
+ 
+.grid img{
+    margin-left: 100px;
+}
+
+
+.item{
+    justify-content: space-evenly;
+    font-family:cursive;
+    padding-bottom: 30px;
+
+    font-size: 50px;
+
+    background-image: url('https://image.shutterstock.com/image-vector/blue-vector-background-geometric-hexagon-260nw-1924731386.jpg');
+    background-repeat: no-repeat;
+    background-position-x: 3  00px;
+    background-blend-mode: 500px;
+    background-size: 1900px;
+}
+ 
+.item img{
+    margin-left: 100px;
+}
+
+ 
+.item2{
+    font-family:cursive;
+    background-color: blue;
+    font-size: 50px;
+      
+    background-image: url('https://image.shutterstock.com/image-vector/blue-vector-background-geometric-hexagon-260nw-1924731386.jpg');
+    background-repeat: no-repeat;
+    background-position-x: 3  00px;
+    background-blend-mode: 500px;
+    background-size: 1900px;
+
+}
+
+
+
+a:link{
+    color: white;
+  }
+  a:visited{
+    color: white;
+  }
+
+  .grid  img:hover{
+    transform: scale(1.2);
+  }
+  
+  a:link{
+    color: white;
+  }
+  a:visited{
+    color: white;
+  }
+
+  .item  img:hover{
+    transform: scale(1.2);
+  }
+  
+  a:link{
+    color: white;
+  }
+  a:visited{
+    color: white;
+  }
+
+  .item2  img:hover{
+    transform: scale(1.2);
+  }
+  
